@@ -1,0 +1,24 @@
+{
+  "name": "slack_post",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "slackPost.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirarira/slackPost.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hirarira/slackPost/issues"
+  },
+  "homepage": "https://github.com/hirarira/slackPost#readme"
+}
